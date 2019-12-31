@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">SyncAdapter</string>
+    <string name="app_name">账号同步</string>
+    <string name="package_name">com.ddq.syncadapter</string>
+    <string name="provider">com.ddq.syncadapter.provider</string>
 </resources>
